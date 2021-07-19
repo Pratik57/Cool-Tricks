@@ -1,0 +1,10 @@
+1.
+arr1[ ]={3,3,1,2,9,8,7,6}.
+After the array was sorted using one of the following algorithms, the relative order of the 3's was changed.
+
+Insertion sort and Merge sort do not change the relative order of the elements.
+Quick sort uses extra space and it changes the relative order of the elements.
+Selection sort changes the relative order of the elements and it does not require extra space
+
+2.
+

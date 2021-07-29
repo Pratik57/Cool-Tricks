@@ -7,4 +7,8 @@ Quick sort uses extra space and it changes the relative order of the elements.
 Selection sort changes the relative order of the elements and it does not require extra space
 
 2.
-
+    Test kth bit is set: num & (1 << k) != 0.
+    Set kth bit: num |= (1 << k).
+    Turn off kth bit: num &= ~(1 << k).
+    Toggle the kth bit: num ^= (1 << k).
+    To check if a number is a power of 2, (num & num - 1) == 0 or (num & (-num)) == num.
